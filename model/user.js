@@ -1,4 +1,3 @@
-// Filename - User.js (or wherever your User model is defined)
 
 const mongoose = require("mongoose");
 const passportLocalMongoose = require("passport-local-mongoose");
